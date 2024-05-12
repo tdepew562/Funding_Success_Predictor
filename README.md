@@ -2,6 +2,14 @@
 
 # Alphabet Soup Funding Predictor
 
+## Prerequisites
+
+Before diving into the project, make sure you have the following installed:
+
+- Python (version 3.0 or higher)
+- Jupyter Notebook (for running the analysis)
+- Libraries: pandas, scikit-learn, and TensorFlow
+  
 ## Overview
 
 The Alphabet Soup Funding Predictor is a deep learning model designed to assist the nonprofit foundation Alphabet Soup in selecting funding applicants with the highest potential for success in their ventures. This repository contains the code for developing and evaluating the deep learning model.
@@ -33,3 +41,19 @@ Attempts to improve model performance included adjusting hyperparameters such as
 ## Conclusion
 
 The Alphabet Soup Funding Predictor provides valuable insights for Alphabet Soup in selecting funding applicants. While the current model demonstrates promising performance, there is room for improvement through continued optimization and exploration of alternative model architectures.
+
+## Acknowledegments
+
+Special thanks to [ChatGPT](https://www.openai.com/gpt) for providing assistance and guidance during the development of this project.
+
+Special thanks to Berkely Data Analytics for providing code snippets and resources used in this project. [UC Berkeley Extension](https://extension.berkeley.edu/)
+
+### Source Code
+
+Special thanks to the contributors of the UCB-VIRT-DATA-PT-11-2023-U-LOLC GitHub repository for providing valuable code and resources used in this project.
+
+## References
+
+- IRS. Tax Exempt Organization Search Bulk Data Downloads. [https://www.irs.gov/](https://www.irs.gov/)
+
+
