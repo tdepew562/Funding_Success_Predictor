@@ -48,8 +48,10 @@ Special thanks to Berkely Data Analytics for providing code snippets and resourc
 
 ### Source Code
 
-Special thanks to the contributors of the UCB-VIRT-DATA-PT-11-2023-U-LOLC GitHub repository for providing valuable code and resources used in this project.
-
+- Special thanks to the contributors of the UCB-VIRT-DATA-PT-11-2023-U-LOLC GitHub repository for providing valuable code and resources used in this project.
+- Original Charity Dataset: [Charity Data CSV](https://static.bc-edx.com/data/dl-1-2/m21/lms/starter/charity_data.csv) - Source of the original CSV file used in the analysis.
+- 
 ## References
 
 - IRS. Tax Exempt Organization Search Bulk Data Downloads. [https://www.irs.gov/](https://www.irs.gov/)
+
